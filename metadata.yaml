@@ -5,9 +5,14 @@ contributor:
     agent_name: Seibold, Alois Leopold
     gutenberg_agent_id: '54922'
     url: http://www.gutenberg.org/2009/agents/54922
+covers:
+- cover_type: archival
+  image_path: 68735-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68735#Die-Radierung-Ein-Leitfaden-und-Ratgeber
 gutenberg_issued: '2022-08-12'
 identifiers:
   gutenberg: '68735'
